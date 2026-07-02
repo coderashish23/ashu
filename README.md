@@ -1,2 +1,2 @@
 # ashu
-demo repo
+demo repo author AS
